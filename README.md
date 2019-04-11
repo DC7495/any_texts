@@ -28,6 +28,7 @@ SFV гифки, мемы, паки стикеров - в оффтоп.
 @curwen @JJborn @N3M351DA @Dok2d для обсуждения этого вопроса.
 
 Что еще почитать:
+Мануал по вопросам: https://segfault.kiev.ua/smart-questions-ru.html не жалуйся потом, что его тебе никто не показал.
 FAQ по DC-группам: https://dc7495.org/dc-faq/
 Наш канал с новостями: https://tlg.name/DEFCON7495
 Наш ютуб: https://www.youtube.com/channel/UC3DVpZD25EOnve7ldRgBeYQ/videos
