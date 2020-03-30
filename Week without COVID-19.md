@@ -6,7 +6,7 @@
 
 #### Платные материалы
 
-https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/Practical 
+Питон для хакеров https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/Practical 
 
 #### Бесплатные
 
@@ -17,8 +17,6 @@ https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/Pract
 Курсы от SkillFactory -- разработка, аналитика данных, маркетинг, культурология, английский
 
 https://covideducation.ru/
-
-Питон для хакеров https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/
 
 ТЫКТЫКТЫК https://overthewire.org/wargames/bandit/
 
