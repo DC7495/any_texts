@@ -4,13 +4,13 @@
 
 > ## _Choose your destiny:_
 >
-> ### [Хочу получить знание!](#%D1%85%D0%BE%D1%87%D1%83-%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-1)
+> ### [Хочу получить знание!](#%D1%85%D0%BE%D1%87%D1%83-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5-1)
 >потратить освободившееся от социализации время на получение новых знаний, которые потом буду применять
 >
-> ### [Хочу получить результат!](#%D1%85%D0%BE%D1%87%D1%83-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C%D1%81%D1%8F-%D0%BA%D0%B0%D0%BA%D0%B8%D0%BC-%D0%BD%D0%B8%D0%B1%D1%83%D0%B4%D1%8C-%D0%B4%D0%B5%D0%BB%D0%BE%D0%BC-1)
+> ### [Хочу получить результат!](#%D1%85%D0%BE%D1%87%D1%83-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82-1)
 >потратить освободившееся от социализации время на получение и применение навыков, с целью получения мудрости
 >
-> ### [Хочу ничего не получить!](#%D1%85%D0%BE%D1%87%D1%83-%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%D1%82%D1%8C-1)
+> ### [Хочу ничего не получить!](#%D1%85%D0%BE%D1%87%D1%83-%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B5-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-1)
 >потратить освободившееся от социализации время на повышения культурного уровня, социализацию, псевдосоциализацию, мемы...
 
 
@@ -65,7 +65,10 @@
 ### Заработать денег
 
 - Багбаунти
-- youdo - мелкие подработки
+  - Список от tproger.ru
+    - https://tproger.ru/translations/bug-bounty-programs/
+- YouDo - мелкие подработки
+  - https://youdo.com/
 
 ### Не заработать денег
 
@@ -125,6 +128,9 @@
 - Hacker: Evolution
   - обзор: https://www.igromania.ru/article/12540/Haker_Iskazhenie_vremeni.html
   - Стим: https://store.steampowered.com/app/70110/Hacker_Evolution_Untold/Hacknet http://store.steampowered.com/app/36545
+- Else Heart.Break()
+  - https://www.gog.com/game/else_heartbreak
+  - https://store.steampowered.com/app/400110
 - @n3m351da и @barborygmus играют в Civilization 5
 - Uplink
 - Hack RUN
