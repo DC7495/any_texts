@@ -1,5 +1,7 @@
 # Чем заняться хакеру на этой неделе
 
+![Сиди дома!](https://github.com/DC7495/any_texts/blob/master/maxresdefault.jpg)
+
 > ## _Choose your destiny:_
 >
 > ### [Хочу получить знание!](#%D1%85%D0%BE%D1%87%D1%83-%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-1)
