@@ -24,11 +24,12 @@
   - https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/Practical
 
 #### Бесплатные
-
-- 31.03 (вторник). 19:00 Безопасность операционных систем в целом и про OpenBSD в частности от группы
-  - https://t.me/cybersecurityclub
-- 1.04 (среда). 20:00 Бесплатный семинар по Ansible от группы
-  - https://t.me/pro_ansible
+- 19 апреля. **Мастер-класс.** Тема: Практические атаки на интерфейс USB.
+  - https://www.youtube.com/watch?v=0bMxAdq1adc
+- Программирование, девопс и много всяких разных интересных курсов открыты до конца апреля
+  - http://pluralsight.com
+- Курс Autopsy Training за 495 долларов по форензике отдают бесплатно! До 15го мая.
+  - https://www.autopsy.com/support/training/covid-19-free-autopsy-training/
 - Курсы от SkillFactory -- разработка, аналитика данных, маркетинг, культурология, английский
   - https://covideducation.ru
 - Нормальные лабы с описанием и прочим. Каждый найдёт что-то для себя.
@@ -51,6 +52,9 @@
   - https://www.youtube.com/DC7495/videos
 - Рассказы про Linux от Алексея Самойлова
   - https://www.youtube.com/channel/UC3kAbMcYr-JEMSb2xX4OdpA/videos
+- AvitoTech выложило в открытый доступ доклады с конференций Онтико. Такие как HighLoad, DevOpsConf и пр.
+  - https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg/playlists?view=50&sort=dd&shelf_id=9
+
 
 ## Хочу получить результат! 
 
