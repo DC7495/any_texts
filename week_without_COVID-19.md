@@ -81,6 +81,8 @@
   - https://www.storytel.com/ru/ru
 - Бесплатный доступ к библиотеке электронных книг Smartreading
   - https://smartreading.ru
+- Пекка Химанен
+  - "Хакерская этика и дух информационализма"
 
 ### Доклады
 
@@ -101,6 +103,12 @@
   - https://www.activism.net/cypherpunk/manifesto.html
 - Манифест криптоанархиста
   - https://www.activism.net/cypherpunk/crypto-anarchy.html
+- Jargon File
+  - https://www.comedia.com/hot/jargon-4.4.6/html/index.html
+  
+### Про Хакеров
+- Hack_Curio
+  - https://hackcur.io/
 
 
 ## Хочу получить результат! 
