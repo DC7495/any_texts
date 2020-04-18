@@ -92,7 +92,13 @@
   - https://www.youtube.com/channel/UC3kAbMcYr-JEMSb2xX4OdpA/videos
 - AvitoTech выложило в открытый доступ доклады с конференций Онтико. Такие как HighLoad, DevOpsConf и пр.
   - https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg/playlists?view=50&sort=dd&shelf_id=9
-  
+- Доклады с недавнего OffensiveCon 2020. На английском.
+  - https://www.youtube.com/watch?v=fgp0KQNjrMQ&list=PLYvhPWR_XYJnX_sscErznYqwBrIhuS08O 
+- Много новых статей на нашем сайте
+  - https://dc7495.org/category/articles/
+- Передача ИБшник на удалёнке от Positive Technologies
+  - https://www.youtube.com/playlist?list=PLEl1NAXHTFNw9GG-clXL77L2MvTgd1tRg
+
 ### Архивы
 
 - Переписки шифропанков
@@ -193,8 +199,6 @@
 - @n3m351da и @barborygmus играют в Civilization 5
 - Uplink
 - Hack RUN
-
-### Фильмы и сериалы
 
 #### Фильмы
 
