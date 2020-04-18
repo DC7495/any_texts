@@ -90,6 +90,17 @@
   - https://www.youtube.com/channel/UC3kAbMcYr-JEMSb2xX4OdpA/videos
 - AvitoTech выложило в открытый доступ доклады с конференций Онтико. Такие как HighLoad, DevOpsConf и пр.
   - https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg/playlists?view=50&sort=dd&shelf_id=9
+  
+### Архивы
+
+- Переписки шифропанков
+  - https://cypherpunks.venona.com/
+- Манифест хакера
+  - http://phrack.org/issues/7/3.html
+- Манифест шифропанка 
+  - https://www.activism.net/cypherpunk/manifesto.html
+- Манифест криптоанархиста
+  - https://www.activism.net/cypherpunk/crypto-anarchy.html
 
 
 ## Хочу получить результат! 
