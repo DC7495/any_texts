@@ -42,35 +42,25 @@
 
 - Нереальные курсы по программированию - выбираешь язык, уровень и проект и работаешь над собой.
   - https://hyperskill.org/onboarding
-
 - Мега-учебник по Flask
   - https://habr.com/post/346306/
-
 - Курс на курсере.
   - https://www.coursera.org/specializations/programming-in-python
-
 - проекты для референса, можно посмотреть примеры
   - https://github.com/wsvincent/djangoforbeginners 
-
 - Официальный гайдлайн Джанго (веб-фреймворк), начни с него, он самый простой. потом можно остальное.
   - https://www.djangoproject.com/start/
-
-Джанго больше рассчитан на монолит-комбайн, а фласк на что-то более мелкое или кастомное.
-
+    - Джанго больше рассчитан на монолит-комбайн, а фласк на что-то более мелкое или кастомное.
 - туториал по созданию сайта, пошаговый
   - https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d
-
 - Шпаргалки
   - https://ehmatthes.github.io/pcc/cheatsheets/README.html
   - https://t.me/c/1493059103/77044
   - https://t.me/c/1493059103/77045
-
 - Что нужно знать, уметь и понимать, чтобы не иметь проблем с поиском работы питонистом
   - https://habr.com/post/311642/
-
 - Написание IP-туннеля (VPN) с tun-интерфейсом на Python
   - https://youtu.be/tgXV1h_YMu4
-
 Спасибо, Карвен. ♡
 
 ### Книги
